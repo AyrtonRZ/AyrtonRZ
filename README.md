@@ -1,6 +1,11 @@
-# Olá, eu sou o Ayrton!
+# Olá, eu sou o Ayrton Rodrigues!
 ### Sobre mim 👨‍💻
 - Estudante de Ciência da computação pelo Centro Universitário de João Pessoa - UNIPÊ.
+<div align="center">
+  <a href="https://github.com/AyrtonRZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyrtonRZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonRZ&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ### Contate-me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-rodrigues-168a6b244)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayrtonrodrigues45@gmail.com)
