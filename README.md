@@ -14,15 +14,20 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  <br />
-<div> 
   <br/>
-  <a href="https://instagram.com/ayrtonro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div> 
+  <a href="https://github.com/AyrtonRZ/AyrtonRZ.git"><img alt="AyrtonActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyrtonRodrigues&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+</div>
+
+<div class="snake">
+  ![Snake animation](https://github.com/AyrtonRZ/AyrtonRZ/blob/output/github-contribution-grid-snake.svg)
+  <br/>
+</div>
+  
+ <div class="contato">
+   ### Contate-me.
+   <a href="https://instagram.com/ayrtonro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ayrtonrodrigues45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayrton-rodrigues-168a6b244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=tauz-hub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-  </br>
- ![Snake animation](https://github.com/AyrtonRZ/AyrtonRZ/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
