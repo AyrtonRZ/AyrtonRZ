@@ -15,11 +15,6 @@
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   <br/>
-<div> 
-  <a href="https://github.com/AyrtonRZ/AyrtonRZ.git"><img alt="AyrtonActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyrtonRodrigues&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-  <br/>
-</div>
-
 <div class="snake">
   ![Snake animation](https://github.com/AyrtonRZ/AyrtonRZ/blob/output/github-contribution-grid-snake.svg)
   <br/>
