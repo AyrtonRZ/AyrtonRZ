@@ -19,7 +19,6 @@
     <img align="top" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     <img align="top" alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
     <img align="top" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-    <a href="https://rockcontent.com/br/blog/sqlite/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a>
 </a> 
