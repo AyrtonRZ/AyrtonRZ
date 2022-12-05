@@ -18,7 +18,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a>
     <img align="top" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     <img align="top" alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <img align="top" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
     <a href="https://rockcontent.com/br/blog/sqlite/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
