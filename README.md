@@ -44,9 +44,6 @@
       <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
     <a href="#">
@@ -54,6 +51,12 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do SQL" height="30" width="40" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     </a>
     <a href="#">
       <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
