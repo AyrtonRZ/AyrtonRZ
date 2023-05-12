@@ -53,7 +53,7 @@
       <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do SQL" height="30" width="40" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg">
+      <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://icongr.am/devicon/linux-original.svg?&color=currentColor">
     </a>
     <a href="#">
       <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
