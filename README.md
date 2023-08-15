@@ -6,16 +6,6 @@
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayrton;I'm+from+Brazil;I'm+a+Computer+Science+Student;I'm+a+Back-End+Developer;Be+Welcome!+ツ)
-
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AyrtonRZ&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonRZ&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
-  </a>
-</div> 
    
 <br>
 <br>
