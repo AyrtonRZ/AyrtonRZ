@@ -19,9 +19,6 @@
       <img align="center" alt="Logo do PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </a>
     <a href="#">
@@ -32,6 +29,9 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
       <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://icongr.am/devicon/linux-original.svg?&color=currentColor">
