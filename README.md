@@ -34,9 +34,6 @@
       <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://icongr.am/devicon/linux-original.svg?&color=currentColor">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     </a>
     <a href="#">
@@ -44,6 +41,9 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://icongr.am/devicon/linux-original.svg?&color=currentColor">
     </a>
   </p>
 </div>
