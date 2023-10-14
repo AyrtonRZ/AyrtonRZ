@@ -36,9 +36,7 @@
     <a href="#">
       <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="Logo do Linux" height="30" width="40" title="Linux" src="https://icongr.am/devicon/linux-original.svg?&color=currentColor">
-    </a>
+    
   </p>
 </div>
 <br>
